@@ -1,0 +1,5 @@
+0138,youtube,900,youtube.com,youtube,videos,online
+135,netflix,800,netflix.com,netflix,series,streaming
+0068,tahoo,366,yahoo.com,mail,perguntas,respostas,pesquisas,yahoo
+0976,microsoft,887,microsoft.com,suporte,microsoft,conta
+0667,google,989,google.com,google,tradutor,google imagens
