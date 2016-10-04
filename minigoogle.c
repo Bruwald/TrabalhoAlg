@@ -32,7 +32,8 @@ char *readline(FILE *arq_entrada){                                      //fun√ß√
         
     }while(c != '\n' && c != EOF && c != ',');
 
-    string[cont - 1] = '\0';                        					//adiciona um \0 no final da linha para indicar uma string
+    string[cont - 1] = '\0'; 
+    /////                       					//adiciona um \0 no final da linha para indicar uma string
 
     return string;                      								//retorna a string
 }
